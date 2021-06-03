@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for a leavie of horse and foot within this kingdom, for their necessary defence</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92485</idno><idno type="EEBO-CITATION">99895525</idno>
+  <idno type="VID">152985</idno>
+  <idno type="EEBO-PROQUEST">2240939173</idno>
+  
+            <idno type="STC">Wing S1078A</idno>
+            <idno type="STC">ESTC R229811</idno>
+            <idno type="PROQUEST">99895525</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895525e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152985)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2338:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for a leavie of horse and foot within this kingdom, for their necessary defence</title>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Scotland. Convention of Estates. Proceedings. 1650.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Evan Tyler, printer to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  History --  Scotland --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History, Military --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152985:1"/>
+            <p>ACT For a LEAVIE Of Horse and Foot Within this KINGDOM, FOR THEIR NECESSARY Defence.</p>
+            <p>
+               <hi>EDINBVRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings most Excellent Majesty, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:152985:2"/>
+            <pb n="1" facs="tcp:152985:2"/>
+            <head>Edinburgh, 25 <hi>June,</hi> 1650.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Estates of Parliament having con<g ref="char:EOLhyphen"/>sidered the dangerousposture of affaires in this Kingdome, both in respect of intestine and forraigne enemies, And although it hes pleased God, to breake the power of malignants in this King<g ref="char:EOLhyphen"/>dome, Yet knowing that they will be uncessant in their designes and attempts in laying hold of all oppor<g ref="char:EOLhyphen"/>tunities to involve this Kingdome in new troubles, And withall, having received severall intelligences of immi<g ref="char:EOLhyphen"/>nent dangers to the cause and this Nation from abroad by approaching of an armie of Sectaries towards this Kingdom. And being obliged in discharge of the trust Committed to them to take care of the safetie of the Nation, As they resolve for themselves to use all lawfull means and peaceble wayes to prevent the dan<g ref="char:EOLhyphen"/>gers, so they have thought fit to give warning to the severall shires and burghs, That according to the law of God, nature and nations, and according to the duties which they by so many sacred bonds owe to the Cove<g ref="char:EOLhyphen"/>nant and cause, to the King and Kingdom, they might be in a condition and posture for defending all those and whatsoever is neer and dear to them against all invasion. Likeas for the stopping of the mouth of Calumnie re<g ref="char:EOLhyphen"/>moving all scrouples and mistakes, and clearing to the consciences of all the lawfulnesse, necessitie and justice of
+<pb n="2" facs="tcp:152985:3"/>their resolutions &amp; proceedings, &amp; that they may have the greater assurance of Gods blessing and presence to all their indevores, The Estates of Parliament declare and assure that they injoyne the following levy of horse and foot for this end allanerlie of meer, just and necessary de<g ref="char:EOLhyphen"/>fence of this Kingdom from invasion, without any de<g ref="char:EOLhyphen"/>signe or intention of invading, any who shal not first in<g ref="char:EOLhyphen"/>vade this Kingdome; And therefore the saids Estates of Parliament doe hereby ordain the whole shyres and burghes within this Kingdome presently to raise and have inreadinesse the whole number of horse, men, and armes, and the foot appointed to be levied by the act of Parliament of the 6 day of <hi>August.</hi> 1649. Together with what was not put forth of the third part of the horse &amp; fourt part of the foot, conform to the act of levie of the 28. day of <hi>Febr.</hi> 1649. And siclike the hail Burrows of this King<g ref="char:EOLhyphen"/>dom to raise &amp; have in readines the proportion of horse according to the said act of the 28, of <hi>February</hi> 1649. So far as alreadie is not put forth by them, Or in their op<g ref="char:EOLhyphen"/>tion three Foot for every horse &amp; man, &amp; then according to the Act 6. of <hi>August.</hi> 1649. For the present levie; all which are set down in the list hereunto subjoyned. And ordaines the forces foresaid To be brought to Rande<g ref="char:EOLhyphen"/>voweses against such dayes as are designed by the Parlia<g ref="char:EOLhyphen"/>ment by a particular Act of the date of thir presents herewith sent, and that at such a convenient place with<g ref="char:EOLhyphen"/>in the Shire as the Committee of war, with advise of the officers shal think fit, And appoints them at that time and place to be inrolled and listed under their respective officers, And either to march if they shal receive orders, or to returne to remain with their out-putters incase they receive not orders from the Parliament or their
+<pb n="3" facs="tcp:152985:3"/>Committee; Providing alwayes, that it is not hereby to be understood that the Committee of Estates shall have any power to give orders to the said forces for bringing them forth of the shires for any other ends then for the just and necessarie defence of this Kingdome from in<g ref="char:EOLhyphen"/>vasion as is exprest in the narrative of this Act. And the saids Estates of Parliament ordains everie troup to consist of 75. Troupers, and every regiment of horse to be made up of 6. troupes at least, and 8. Troups at most, sicklike every companie of foot to consist of 126 soul<g ref="char:EOLhyphen"/>diers, and every regiment of foot to be made up of 8. companies, And likewise they ordaine the present stand<g ref="char:EOLhyphen"/>ing troupes be recruited and made up to the number of 75. in every troup out of the number of horses to be now levyed forth of the severall shyres <hi>respective,</hi> and these recruites not to be brought forth of the shires til there be a necessitie of bringing forth the new levy foresaid, according to this present Act, And sicklike that these recrutes be dismissed with the new Leavie, when the same shall be dismissed; And farther, the saids Estates of Parliament declare they will nominate and appoint the officers of regiments, troups and companies from a Colonell to a Captain in<g ref="char:EOLhyphen"/>clusive without prejudice to the Committes of shires in time coming anent any power whatsomever granted to them for nomination of their own rootmasters con<g ref="char:EOLhyphen"/>forme to any preceding acts of levie, and do give po<g ref="char:EOLhyphen"/>wer and war<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and to the Committees of War of the se<g ref="char:EOLhyphen"/>verall shyres with advise of the Collonels <hi>respective,</hi> according to their severall divisions if they be present to nominat and appoint the officers inferior to a Captain, and to the Magistrates and Counsels of Burghes to
+<pb n="4" facs="tcp:152985:4"/>make choyse of their officers under the degree of a Cap<g ref="char:EOLhyphen"/>tain according to the proportions to be put forth by them, Providing alwayes they make choise of such as are fit for the service, and are qualified as is exprest in the 26. Act seventeenth of <hi>February,</hi> 1649. which ordains that such as are malignant and disaffected to the present work of reformation, and Covenants, and against whom there is just cause of Exception or just ground of jealousie because of their disaffection, or any person given to Drunkennes, Swearing, Uncleanes, or any other Scandalous offence, Be not made choyse of, but on<g ref="char:EOLhyphen"/>lyable men, and such who are of known affection unto, &amp; approved fidelitie and integritie in the cause of God, &amp; of a blameles and Christian Conversation. And ordaines the saids Committees of Warr and Counsells of Burghes, after they have made choyse of their under officers, to return a roll of their names to the Committee appoint<g ref="char:EOLhyphen"/>ted for purging the armie, before the day of their randez<g ref="char:EOLhyphen"/>vows. And gives power to the Committees of War and Counsells of Burghs within their severall Jurisdic<g ref="char:EOLhyphen"/>tions <hi>respective,</hi> To devide and lay on proportionally the horse according to the maintenance upon the seve<g ref="char:EOLhyphen"/>rall heritors and others lyable in putting forth the same; And It is declared That the greatest rent of these to be joyned for making up one horse shall provide the horse, And the rest that joyne, to contribute according to one hundereth and threescore pounds for ilk horse and man, With power also to the Committees of Warr of the se<g ref="char:EOLhyphen"/>verall Shires <hi>respective,</hi> to set prices upon horses fit for the service, And to take them as they shall find neces<g ref="char:EOLhyphen"/>sarie for the good of the same, And Sicklyke appoints the heritors and others lyable in putting forth horse and
+<pb n="5" facs="tcp:152985:4"/>Foot to bring them to the Randezvous well mounted and armed under the paine of 200. merks for ilk horse &amp; man, and 100. Merks for ilk Footman. To be payed by the heritors &amp; others failing to bring sufficient horse, men and armes <hi>respective</hi> to the randezvows as said is, To be exacted by the select persons nominate in the se<g ref="char:EOLhyphen"/>verall Shyres for viewing of the horse and armes; And this penaltie to be exacted by and attour the putting forth of the horse, men and armes as is afforesaid; And incase of their return from the Randezvous, appoints the Committees of War of the severall Shyrs to take the particular heritors and others lyable in putting forth Horse and Foot obliged for having them in reddinesse within 24. houres after advertisment from the Parlia<g ref="char:EOLhyphen"/>ment or Committee of Estates, under the pain aforesaid, Andappoints the counsels of Burghs to take the out-put<g ref="char:EOLhyphen"/>ters within brughs, obliged in the likemanner under the same paine. And further the saids Estates upon conside<g ref="char:EOLhyphen"/>ration of the great abuses in former levies committed by officers in taking of mony from the heritors &amp; others a<g ref="char:EOLhyphen"/>foresaid who are lyable in putting forth of horse-men and foot in place of their said men, Declare That whatso<g ref="char:EOLhyphen"/>ever officer shall be found to have done so, shall not only be cashiered from his charge, but also branded with ane mark of infamie and disgrace, and shal be obliged to repay the quadruple, &amp; to be imprisoned ay and while he pay the same, Excepting such officers who are to Le<g ref="char:EOLhyphen"/>vie their horsemen in the Shyres beyond <hi>Spey,</hi> who are hereby permitted to take 200. pounds for every horse and man, or the man well mounted in the option of the outputter; Providing The said Officers make up their number of good sufficient able horse and men at the
+<pb n="5" facs="tcp:152985:5"/>day of Randezvows appointed for the said Shyres be<g ref="char:EOLhyphen"/>yond <hi>Spey,</hi> as said is. And the saids Estates of Parlia<g ref="char:EOLhyphen"/>ment doe give power to the saids Committees of War in the several shyres of this Kingdome with advice of the Colonells To doe all things conform to the former acts of Levies as they shall find necessary for the more speedy and effectuall raising and having in readines at the Randezvous, the Horse and foot abovewritten, And appoints the saids Committees, after the receipt of this act, to sit continually &amp; every day till they execute the same, And return immediatly an accompt of their deligence to the Parliament or Committee of Estates, With power to them to fine those of their number who shall be absent in 20. Merks Scots for every dayes absence.</p>
+            <closer>
+               <signed>
+                  <hi>A. Johnstoun</hi> Cler. Regist.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
